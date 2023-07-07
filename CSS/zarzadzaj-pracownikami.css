@@ -1,0 +1,99 @@
+body {
+  background-color: #4E3B7C;
+  font-family: Tahoma, sans-serif;
+  color: #fff;
+  padding: 20px;
+}
+
+
+.bzaloguj {
+	background-color:#44c767;
+	display:inline-block;
+	cursor:pointer;
+	color:#000;
+	font-family:Arial;
+	font-size:12px;
+	padding:4px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+
+}
+.bzaloguj:hover {
+	background-color:#5cbf2a;
+}
+.bzaloguj:active {
+	position:relative;
+	top:1px;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="date"],
+input[type="text"],
+input[type="submit"] {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #000;
+}
+
+tr.selected {
+  background-color: #e6e6e6;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  color: #44c767;
+}
+
+img {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+input[type="submit"].back {
+  margin-top: 10px;
+  background-color: #ccc;
+  color: #000;
+  padding: 5px 10px;
+  border: none;
+}
+
+input[type="submit"].back:hover {
+  background-color: #999;
+}
+
+
